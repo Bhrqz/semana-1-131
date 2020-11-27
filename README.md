@@ -25,3 +25,6 @@ El proyecto, deberá manejarse versionado en un repositorio remoto en github, en
 INFORMACION RELEVANTE DEL PROCESO LLEVADO A CABO POR EL GRUPO 131
 
 Autores: Alejandro Gallo, Jose Bohòrquez, Pablo Velàsquez
+
+Subido primer esqueleto de la pagina. Establecidos los espacios a ocupar por cada elemento mediante implementacion de archivo CSS. 
+
