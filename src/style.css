@@ -22,10 +22,12 @@
 #noticias{ 
   justify-content: center;
   
+  
 }
 
 #noticia{
   padding: 10px;
+  justify-content: center;
 }
 
 #footer{
