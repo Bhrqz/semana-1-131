@@ -1,0 +1,38 @@
+#equipos {
+  display:flex;
+  padding: 20px;
+  justify-content: center;
+
+}
+
+#integrantes {
+  padding: 10px;
+}
+
+#servicios {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+#servicio{
+  padding: 10px;
+}
+
+#noticias{ 
+  justify-content: center;
+  
+}
+
+#noticia{
+  padding: 10px;
+}
+
+#footer{
+  display: flex;
+  justify-content: center;
+}
+
+#linksCabecera{
+  justify-content: right;
+}
