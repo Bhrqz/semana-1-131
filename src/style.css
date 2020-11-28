@@ -21,7 +21,6 @@
   height: 60px;
   padding-left: 0;
   display: flex;
-  
 }
 
 .menu__link{
@@ -42,48 +41,58 @@
 .servicios {
   display:flex;
   justify-content: center;
-  background-color: lightgray;
+  
   margin-bottom: 20px;
 }
 
 .servicio{
+  background-color: lightgray;
   border: 1px;
   border-width: 2 px;
   border-color: darkkhaki;
+  border-style: solid;
   width: 33.08%;
+  margin: 20px;
   text-align: center;
-  
-}
+  box-shadow: 6px -6px rgb(37, 214, 214);
+  }
 
 .servicio__img{
- 
   padding: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 200px;
+  width: 330px;
  }
  
  .servicio__texto{
    padding: 20px;
    text-align: justify;
    font-size: 14px;
-   
  }
 
 .noticias{ 
-  background-color:lightblue;
+  
   justify-content: center;
   text-align: center;
   margin-bottom: 20px;
-
 }
 
 .noticia{
+  margin: 20px;
   width: 50%;
   padding: 10px;
-  
-}
+  border: burlywood;
+  border-width: 2px;
+  border-style: solid;
+  background-color:lightblue;
+  box-shadow: 6px -6px rgb(109, 174, 174);
+ }
+ 
+ .noticia__text{
+  padding: 20px;
+  text-align: justify;
+ }
 
 .equipo {
   background-color: azure;
