@@ -1,3 +1,7 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .contenido{
   width: 1200px;
   margin: 0 auto;
@@ -102,9 +106,17 @@
 }
 
 .integrantes{
+ 
+  align-items: center;
   width: 33%;
   padding: 10px;
   text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagenIntegrante{
+  border-radius: 50%;
 }
 
 .footer{
@@ -112,4 +124,18 @@
   justify-content: center;
 }
 
+.foot{
+    width: 100%;
+    display: flex;
+    margin-top: 30px;
+}
 
+.footMessage{
+  width: 50%;
+  padding: 5%;
+  align-items: center;
+}
+
+.contacto{
+  width: 50%;
+}

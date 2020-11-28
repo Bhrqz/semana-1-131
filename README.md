@@ -30,3 +30,5 @@ Subido primer esqueleto de la pagina. Establecidos los espacios a ocupar por cad
 
 
 Se configura la cabecera con la imagen y comportamientos para los links, se crea contenido de las secciones y se añaden imagenes, se organiza plantilla para el resto de secciones
+
+Noticias actualizadas, links colocados y funcionando, imagenes acordes dispuestas, footer section completa.
