@@ -28,3 +28,5 @@ Autores: Alejandro Gallo, Jose Bohòrquez, Pablo Velàsquez
 
 Subido primer esqueleto de la pagina. Establecidos los espacios a ocupar por cada elemento mediante implementacion de archivo CSS. 
 
+
+Se configura la cabecera con la imagen y comportamientos para los links, se crea contenido de las secciones y se añaden imagenes, se organiza plantilla para el resto de secciones
